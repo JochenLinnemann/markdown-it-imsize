@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-imsize",
+  "name": "@jochenlinnemann/markdown-it-imsize",
   "version": "2.0.1-style",
   "description": "Markdown-it plugin to specify image size",
   "main": "lib/index.js",
