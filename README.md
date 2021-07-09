@@ -1,12 +1,18 @@
 # markdown-it-imsize
 
-[![Build Status](https://travis-ci.org/tatsy/markdown-it-imsize.svg?branch=master)](https://travis-ci.org/tatsy/markdown-it-imsize)
-[![NPM version](https://img.shields.io/npm/v/markdown-it-imsize.svg?style=flat)](https://www.npmjs.org/package/markdown-it-imsize)
-[![Coverage Status](https://coveralls.io/repos/tatsy/markdown-it-imsize/badge.svg)](https://coveralls.io/r/tatsy/markdown-it-imsize)
-[![Dependency Status](https://david-dm.org/tatsy/markdown-it-imsize.svg)](https://david-dm.org/tatsy/markdown-it-imsize)
-[![devDependency Status](https://david-dm.org/tatsy/markdown-it-imsize/dev-status.svg)](https://david-dm.org/tatsy/markdown-it-imsize#info=devDependencies)
-
 > A markdown-it plugin for size-specified image markups. This plugin overloads original image renderer of markdown-it.
+
+Original by tatsy: https://github.com/tatsy/markdown-it-imsize
+
+This version adds width and height to the style attribute, too.
+
+## Build & Test
+
+Install `npm install make -g`.
+
+Run `npm run build`.
+
+Run `npm run test`.
 
 ## Usage
 

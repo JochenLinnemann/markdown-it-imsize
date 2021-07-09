@@ -1,21 +1,19 @@
 {
   "name": "markdown-it-imsize",
-  "version": "2.0.1",
+  "version": "2.0.1-style",
   "description": "Markdown-it plugin to specify image size",
   "main": "lib/index.js",
   "scripts": {
+    "build": "make publish",
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tatsy/markdown-it-imsize"
+    "url": "https://github.com/JochenLinnemann/markdown-it-imsize"
   },
-  "author": "tatsy",
+  "author": "tatsy, Jochen Linnemann",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tatsy/markdown-it-imsize/issues"
-  },
-  "homepage": "https://github.com/tatsy/markdown-it-imsize",
+  "homepage": "https://github.com/JochenLinnemann/markdown-it-imsize",
   "keywords": [
     "markdown-it",
     "markdown-it-plugin"

@@ -2,12 +2,12 @@ Option to autofill image size
 .
 ![lena]( test/img/lena.bmp )
 .
-<p><img src="test/img/lena.bmp" alt="lena" width="128" height="128"></p>
+<p><img src="test/img/lena.bmp" alt="lena" width="128" height="128" style="width:128px;height:128px;"></p>
 .
 .
 ![lena]( test/img/lena.bmp =200x )
 .
-<p><img src="test/img/lena.bmp" alt="lena" width="200"></p>
+<p><img src="test/img/lena.bmp" alt="lena" width="200" style="width:200px;"></p>
 .
 
 
