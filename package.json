@@ -7,6 +7,9 @@
     "build": "make publish",
     "test": "make test"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/JochenLinnemann/markdown-it-imsize"
